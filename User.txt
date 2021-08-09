@@ -1,0 +1,4 @@
+admin@gmail.com,12345,0123323223,yes
+foo@gmail.com,12345,0123323223,no
+foo1@gmail.com,12345,0122312331,no
+foo123@gmail.com,foo123,012312312,no

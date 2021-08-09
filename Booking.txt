@@ -1,0 +1,4 @@
+B0,21-3-2021,Iron Man 4,10,1.00pm-3.00pm,theater 3 ,M1,foo999@gmail
+B0,21-3-2021,Iron Man 4,10,1.00pm-3.00pm,theater 3 ,M1,foo@gmail.com
+B1,21-3-2021,Iron Man 4,10,5.00pm-7.00pm,theater 3,M2,foo@gmail.com
+B0,20-3-201,Sausage Party,10,8.30am-10.30am,theater 5,M9,foo123@gmail.com
